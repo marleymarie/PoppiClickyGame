@@ -1,0 +1,15 @@
+.navbar {
+    background-color: black;
+}
+.navbar-brand {
+    float: left;
+    margin-left: 20px;
+  
+}
+.nav-message {
+    float: right;
+    
+}
+.nav-score {
+    float: right;
+}
